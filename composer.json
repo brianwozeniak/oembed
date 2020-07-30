@@ -14,6 +14,12 @@
       "email": "jooorooo@gmail.com"
     }
   ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/Akilez/embed.git"
+    }
+  ],
   "require": {
     "php": ">=5.6",
     "illuminate/support": "^5.0|^6.0|^7.0",
